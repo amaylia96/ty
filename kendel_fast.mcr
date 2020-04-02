@@ -1,14 +1,8 @@
-Mouse : 755 : 358 : LeftButtonDown : 0 : 0 : 0
-DELAY : 112
-Mouse : 751 : 345 : LeftButtonUp : 0 : 0 : 0
-DELAY : 200
-Mouse : 831 : 355 : LeftButtonDown : 0 : 0 : 0
-DELAY : 107
-Mouse : 831 : 361 : LeftButtonUp : 0 : 0 : 0
-DELAY : 200
-Mouse : 888 : 347 : LeftButtonDown : 0 : 0 : 0
-DELAY : 110
-Mouse : 892 : 351 : LeftButtonUp : 0 : 0 : 0
+Mouse : 0 : 0 : RightClick : 0 : 0 : 0
+DELAY : 100
+Mouse : 0 : 0 : RightClick : 0 : 0 : 0
+DELAY : 100
+Mouse : 0 : 0 : RightClick : 0 : 0 : 0
 DELAY : 250
 Keyboard : Space : KeyDown
 DELAY : 93
